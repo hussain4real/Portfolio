@@ -1,0 +1,6 @@
+{
+   "eslint.alwaysShowStatus": true,
+   "eslint.autoFixOnSave": true,
+   "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "editor.formatOnSave": true
+}
