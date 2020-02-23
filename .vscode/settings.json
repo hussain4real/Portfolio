@@ -3,5 +3,8 @@
    "eslint.autoFixOnSave": true,
    "editor.defaultFormatter": "esbenp.prettier-vscode",
    "editor.formatOnSave": true,
-   "liveServer.settings.port": 8082
+   "liveServer.settings.port": 8082,
+   "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+   }
 }
